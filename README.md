@@ -2,4 +2,4 @@
 
 
 
-![Alt text](https://github.com/Daimyo21/GTA-IV-RPG-ModPack/blob/master/IntroImage.png "Optional title")
+![Alt text](https://github.com/Daimyo21/GTA-IV-RPG-ModPack/blob/master/IntroImage.png "Daimyo's RPG ModPack-Community Edition")
