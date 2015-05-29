@@ -9,3 +9,5 @@
 
 [Click here Learn the details of my Modpack and check out video content](http://www.lcpdfr.com/topic/24544-daimyos-rpg-mod-pack-community-edition/?)
 
+
+[Click here for direct download](http://www.lcpdfr.com/topic/24544-daimyos-rpg-mod-pack-community-edition/?)
