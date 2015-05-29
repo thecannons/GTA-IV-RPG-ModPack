@@ -1,0 +1,6 @@
+C:\Users\Cheyenne\Dropbox\GTA IV Shares\Projects\Jitsuin\MPBlips\MPBlips\bin\Release\MPBlips.dll
+C:\Users\Cheyenne\Dropbox\GTA IV Shares\Projects\Jitsuin\MPBlips\MPBlips\bin\Release\MPBlips.pdb
+C:\Users\Cheyenne\Dropbox\GTA IV Shares\Projects\Jitsuin\MPBlips\MPBlips\bin\Release\ScriptHookDotNet.xml
+C:\Users\Cheyenne\Dropbox\GTA IV Shares\Projects\Jitsuin\MPBlips\MPBlips\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Cheyenne\Dropbox\GTA IV Shares\Projects\Jitsuin\MPBlips\MPBlips\obj\Release\MPBlips.dll
+C:\Users\Cheyenne\Dropbox\GTA IV Shares\Projects\Jitsuin\MPBlips\MPBlips\obj\Release\MPBlips.pdb

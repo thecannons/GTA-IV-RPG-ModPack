@@ -1,0 +1,21 @@
+c:\users\daimyo\documents\visual studio 2010\Projects\PersistentPersons\PersistentPersons\bin\Debug\PersistentPersons.dll
+c:\users\daimyo\documents\visual studio 2010\Projects\PersistentPersons\PersistentPersons\bin\Debug\PersistentPersons.pdb
+c:\users\daimyo\documents\visual studio 2010\Projects\PersistentPersons\PersistentPersons\bin\Debug\ScriptHookDotNet.dll
+c:\users\daimyo\documents\visual studio 2010\Projects\PersistentPersons\PersistentPersons\bin\Debug\ScriptHookDotNet.xml
+c:\users\daimyo\documents\visual studio 2010\Projects\PersistentPersons\PersistentPersons\obj\Debug\ResolveAssemblyReference.cache
+c:\users\daimyo\documents\visual studio 2010\Projects\PersistentPersons\PersistentPersons\obj\Debug\PersistentPersons.dll
+c:\users\daimyo\documents\visual studio 2010\Projects\PersistentPersons\PersistentPersons\obj\Debug\PersistentPersons.pdb
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\PersistentPersons\PersistentPersons\bin\Debug\PersistentPersons.dll
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\PersistentPersons\PersistentPersons\bin\Debug\PersistentPersons.pdb
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\PersistentPersons\PersistentPersons\bin\Debug\ScriptHookDotNet.xml
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\PersistentPersons\PersistentPersons\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\PersistentPersons\PersistentPersons\obj\Debug\PersistentPersons.dll
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\PersistentPersons\PersistentPersons\obj\Debug\PersistentPersons.pdb
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\PersistentPersons\PersistentPersons\bin\Debug\PersistentPersons.ini
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\PersistentPersons\PersistentPersons\bin\Debug\PersistentPersons.ini
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\PersistentPersons\PersistentPersons\bin\Debug\PersistentPersons.dll
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\PersistentPersons\PersistentPersons\bin\Debug\PersistentPersons.pdb
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\PersistentPersons\PersistentPersons\bin\Debug\ScriptHookDotNet.xml
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\PersistentPersons\PersistentPersons\obj\Debug\PersistentPersons.csprojResolveAssemblyReference.cache
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\PersistentPersons\PersistentPersons\obj\Debug\PersistentPersons.dll
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\PersistentPersons\PersistentPersons\obj\Debug\PersistentPersons.pdb

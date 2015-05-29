@@ -1,0 +1,52 @@
+----------------------------------------------------
+-	Persistent Persons 1.0
+-	Mod by: Daimyo21
+-	contact: daimyo21mods@gmail.com
+-	Works in Multiplayer and Singleplayer
+----------------------------------------------------
+
+Changelog v1.1.1
+-Voice now set according to character skin when player loads previous character or uses PersistentPersons "Insta-Cop" function to choose a police skin
+	*If using this mod for other means and not policing, simply save the character and load it to set default voice of that character
+	*Default voice works for ANY skin, not just police, as long as you use save the character and then load it,
+-All official police uniform skins (not security/body guards etc) will give a voice preview when using "Insta-Cop" or when loading a official police skin
+
+
+Changelog v1.1
+-Walk mode available in Multiplayer (check INI for controls, default CAPSLOCK + movement keys)
+-Arrest reward system enabled with tweaks and INI customizable settings
+
+Persistent Persons mod is a script that keeps your character persistent so you can get 
+back to policing in GTA IV after a crash, script crashing, or simply continue from a successful night of patrolling.
+It was essentially made for LCPDFR, but has no restrictions on what to be used for(SP or MP).
+
+
+Persistent Persons Features:
+-Save character feature that saves:
+	*All weapons and ammo amounts on character
+	*Player skin
+	*Health and Armor
+	*Money on character
+	*Player Position in the world
+-Walk in multiplayer!
+-Arrest Reward system that rewards players money for using LCPDFRs arrest system (change reward amounts in INI)
+-Simple and fast police skin selector, (No need to use a bloated trainer, or run to the police station)
+-Auto Save feature that will continually save every X amount of seconds set by the player
+-Force Save feature so you can save on the spot
+-Auto Load feature that will load your character data when script loads
+-Customizable Controls/Settings
+
+Installation:
+
+Copy the PersistentPersons.net and PersistentPersons.INI file + PersistentPersonsSave.INI files into your scripts folder.
+
+
+General CREDITS:
+-AngryAmoeba, his scripts like Bank Account, Weapon Weight and Weapon storage inspired me a ton and are wonderful solid scripts. 
+I've talked to Angry and he is super cool, allowing me to re-release some of his scripts with added functionality.
+Some of his functionality is burrowed/modified in the persistent portions of my scripts as well as his ATM locator functionality in my PvP Wanted scripts hospital respawn functionality.
+
+LCPDFR.com, without your mod and support, none of this would be possible!
+
+Also special thanks to scripthook IRC community channel found here: http://www.gtaforums.com/index.php?showtopic=479739
+If your interested in coding, these guys are the ones to talk to!

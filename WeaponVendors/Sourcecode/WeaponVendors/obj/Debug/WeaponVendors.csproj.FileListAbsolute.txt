@@ -1,0 +1,19 @@
+c:\users\daimyo\documents\visual studio 2010\Projects\WeaponVendors\WeaponVendors\bin\Debug\ScriptHookDotNet.dll
+c:\users\daimyo\documents\visual studio 2010\Projects\WeaponVendors\WeaponVendors\bin\Debug\ScriptHookDotNet.xml
+c:\users\daimyo\documents\visual studio 2010\Projects\WeaponVendors\WeaponVendors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daimyo\Documents\Visual Studio 2010\Projects\WeaponVendors\WeaponVendors\bin\Debug\WeaponVendors.dll
+C:\Users\Daimyo\Documents\Visual Studio 2010\Projects\WeaponVendors\WeaponVendors\bin\Debug\WeaponVendors.pdb
+C:\Users\Daimyo\Documents\Visual Studio 2010\Projects\WeaponVendors\WeaponVendors\obj\Debug\WeaponVendors.dll
+C:\Users\Daimyo\Documents\Visual Studio 2010\Projects\WeaponVendors\WeaponVendors\obj\Debug\WeaponVendors.pdb
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\WeaponVendors\WeaponVendors\bin\Debug\WeaponVendors.dll
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\WeaponVendors\WeaponVendors\bin\Debug\WeaponVendors.pdb
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\WeaponVendors\WeaponVendors\bin\Debug\ScriptHookDotNet.xml
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\WeaponVendors\WeaponVendors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\WeaponVendors\WeaponVendors\obj\Debug\WeaponVendors.dll
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\WeaponVendors\WeaponVendors\obj\Debug\WeaponVendors.pdb
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\WeaponVendors\WeaponVendors\bin\Debug\WeaponVendors.dll
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\WeaponVendors\WeaponVendors\bin\Debug\WeaponVendors.pdb
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\WeaponVendors\WeaponVendors\bin\Debug\ScriptHookDotNet.xml
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\WeaponVendors\WeaponVendors\obj\Debug\WeaponVendors.csprojResolveAssemblyReference.cache
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\WeaponVendors\WeaponVendors\obj\Debug\WeaponVendors.dll
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\WeaponVendors\WeaponVendors\obj\Debug\WeaponVendors.pdb

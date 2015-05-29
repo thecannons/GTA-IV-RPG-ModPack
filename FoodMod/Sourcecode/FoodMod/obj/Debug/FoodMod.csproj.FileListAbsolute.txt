@@ -1,0 +1,21 @@
+c:\users\daimyo\documents\visual studio 2010\Projects\FoodMod\FoodMod\bin\Debug\FoodMod.dll
+c:\users\daimyo\documents\visual studio 2010\Projects\FoodMod\FoodMod\bin\Debug\FoodMod.pdb
+c:\users\daimyo\documents\visual studio 2010\Projects\FoodMod\FoodMod\bin\Debug\ScriptHookDotNet.dll
+c:\users\daimyo\documents\visual studio 2010\Projects\FoodMod\FoodMod\bin\Debug\ScriptHookDotNet.xml
+c:\users\daimyo\documents\visual studio 2010\Projects\FoodMod\FoodMod\obj\Debug\ResolveAssemblyReference.cache
+c:\users\daimyo\documents\visual studio 2010\Projects\FoodMod\FoodMod\obj\Debug\FoodMod.dll
+c:\users\daimyo\documents\visual studio 2010\Projects\FoodMod\FoodMod\obj\Debug\FoodMod.pdb
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\FoodMod\FoodMod\bin\Debug\FoodMod.dll
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\FoodMod\FoodMod\bin\Debug\FoodMod.pdb
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\FoodMod\FoodMod\bin\Debug\ScriptHookDotNet.xml
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\FoodMod\FoodMod\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\FoodMod\FoodMod\obj\Debug\FoodMod.dll
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\FoodMod\FoodMod\obj\Debug\FoodMod.pdb
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\FoodMod\FoodMod\bin\Debug\FoodMod.ini
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\FoodMod\FoodMod\bin\Debug\FoodMod.ini
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\FoodMod\FoodMod\bin\Debug\FoodMod.dll
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\FoodMod\FoodMod\bin\Debug\FoodMod.pdb
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\FoodMod\FoodMod\bin\Debug\ScriptHookDotNet.xml
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\FoodMod\FoodMod\obj\Debug\FoodMod.csprojResolveAssemblyReference.cache
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\FoodMod\FoodMod\obj\Debug\FoodMod.dll
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\FoodMod\FoodMod\obj\Debug\FoodMod.pdb

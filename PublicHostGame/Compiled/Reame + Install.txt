@@ -1,0 +1,72 @@
+----------------------------------------------------
+-	PublicHostGame 1.0
+-	Mod by: Daimyo21
+-	contact: daimyo21mods@gmail.com
+-	Works in Multiplayer Only
+----------------------------------------------------
+
+Changelog v1.1.1:
+-Global Controls Image updated with PersistentPersons walk key added (possible other control additions)
+
+
+Changelog v1.1:
+-Updated Global Controls Menu for EverythingCar wrong/missing entries
+
+PublicHostGame 1.1 is a script written to host public games privately in a p2p multiplayer environment
+
+Who is PublicHostGame for?
+	-PublicHostGame is for organized groups of friends/clans/random people that want to host public games without 
+	having to rely on inviting constantly.  This is also great for organized events.
+
+
+How does PublicHostGame work?
+	-PublicHostGame uses a PublicHostPlayerList.ini file that can be opened with notepad where player names could be added(Windows Live Names are Case Sensitive)
+	that are verified to join the public game.  All other players who join, will be kicked.
+
+What if the host crashes in multiplayer?
+	-In a p2p multiplayer environment like GTA IV, if one player crashes, another host is randomly elected, this means that 
+	everyone in multiplayer must have the same PublicHostPlayerList.ini file and must be running PublicHostGame 1.0
+	If you have an extra computer to act as a server and solely run this script (certain/more scripts = eventual crash) there is an optional dedicated mode
+	that pauses the game and blackens the screen, keeping the player in-game and as host the entire time.
+
+Cant someone in the group/event be a troll and remove everyone from the PublicHostPlayerList.ini file, kicking everyone when he/she becomes host?
+	-Yes, however, upon becoming the host, the host announces to the server multiple times that he/she is host before the auto-kick functionality begins
+
+
+Features:
+-Ability to publicly host a game without the need to constantly invite your friends/group members
+-Auto kick functionality kicks anyone who is not authorized to be in the game, this can be toggled off/on
+-Manual kick functionality allows current host to cycle through names and kick accordingly
+-Dedicated Mode for those who want to solely dedicate a computer and run this script solely on it
+	*This mode does not require others to have PublicHostGame script unless this person crashes which is very unlikely if just running this script
+	*If in dedicated mode, console >> reloadscripts is require if the list is updated for 24/7 servers
+	*Host in invisible and invincible in dedicated mode
+-In-game cleanup script that deletes all pedestrians(not players), vehicles, and objects.
+	*This cleanup script is used when newly spawned peds, vehicles, objects begin to freeze in the air and become
+	rock solid, usually resulting in restarting the multiplayer session for everyone
+	*GTA IV MP has a max number of objects/peds/vehicles that can be spawned in at once, instead of restarting
+	 your multiplayer game, simply tell everyone to save their game(if your using persistent scripts), run the cleanup, and tell everyone to reloadscripts (if necessary).
+-Optional Customizable Global Controls Menu for Community ModPack
+
+REQUIREMENTS:
+	Since the Host will be passing on from player to player,
+	In order for this script to work properly, EVERYONE in the group 
+	must have it with identical PublicHostPlayerList.ini files
+	(PublicHostPlayerList.ini files can easily be shared via dropbox)
+	This is assuming there is not one person dedicating a computer entirely to hosting (and not playing)
+	
+Installation:
+
+Copy PublicHostGame_Menu FOLDER (IMPORTANT else the script will CRASH!), PublicHostGame.net, PublicHostGame.ini, and PublicHostPlayerList.ini into scripts folder.
+
+General CREDITS:
+-AngryAmoeba, his scripts like Bank Account, Weapon Weight and Weapon storage inspired me a ton and are wonderful solid scripts. 
+I've talked to Angry and he is super cool, allowing me to re-release some of his scripts with added functionality.
+Some of his functionality is burrowed/modified in the persistent portions of my scripts as well as his ATM locator functionality in my PvP Wanted scripts hospital respawn functionality.
+
+-All others who participated in this modpack including Endosan, BR_Goianiense!
+
+LCPDFR.com, without your mod and support, none of this would be possible!
+
+Also special thanks to scripthook IRC community channel found here: http://www.gtaforums.com/index.php?showtopic=479739
+If your interested in coding, these guys are the ones to talk to!

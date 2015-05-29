@@ -1,0 +1,19 @@
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Jitsuin\MPBlips\MPBlips\bin\Debug\MPBlips.dll
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Jitsuin\MPBlips\MPBlips\bin\Debug\MPBlips.pdb
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Jitsuin\MPBlips\MPBlips\bin\Debug\ScriptHookDotNet.dll
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Jitsuin\MPBlips\MPBlips\bin\Debug\ScriptHookDotNet.xml
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Jitsuin\MPBlips\MPBlips\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Jitsuin\MPBlips\MPBlips\obj\Debug\MPBlips.dll
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Jitsuin\MPBlips\MPBlips\obj\Debug\MPBlips.pdb
+C:\Users\Daimyo\Documents\Visual Studio 2010\Projects\MPBlips\MPBlips\bin\Debug\MPBlips.dll
+C:\Users\Daimyo\Documents\Visual Studio 2010\Projects\MPBlips\MPBlips\bin\Debug\MPBlips.pdb
+C:\Users\Daimyo\Documents\Visual Studio 2010\Projects\MPBlips\MPBlips\bin\Debug\ScriptHookDotNet.xml
+C:\Users\Daimyo\Documents\Visual Studio 2010\Projects\MPBlips\MPBlips\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daimyo\Documents\Visual Studio 2010\Projects\MPBlips\MPBlips\obj\Debug\MPBlips.dll
+C:\Users\Daimyo\Documents\Visual Studio 2010\Projects\MPBlips\MPBlips\obj\Debug\MPBlips.pdb
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\MPBlips\MPBlips\bin\Debug\MPBlips.dll
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\MPBlips\MPBlips\bin\Debug\MPBlips.pdb
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\MPBlips\MPBlips\bin\Debug\ScriptHookDotNet.xml
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\MPBlips\MPBlips\obj\Debug\MPBlips.csprojResolveAssemblyReference.cache
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\MPBlips\MPBlips\obj\Debug\MPBlips.dll
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\MPBlips\MPBlips\obj\Debug\MPBlips.pdb

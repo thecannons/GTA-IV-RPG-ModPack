@@ -1,0 +1,21 @@
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\PublicHostGame\PublicHostGame\bin\Debug\PublicHostGame.dll
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\PublicHostGame\PublicHostGame\bin\Debug\PublicHostGame.pdb
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\PublicHostGame\PublicHostGame\bin\Debug\ScriptHookDotNet.dll
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\PublicHostGame\PublicHostGame\bin\Debug\ScriptHookDotNet.xml
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\PublicHostGame\PublicHostGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\PublicHostGame\PublicHostGame\obj\Debug\PublicHostGame.dll
+C:\Users\Daimyo\Dropbox\GTA IV Shares\Projects\Daimyo\Asus\Projects\PublicHostGame\PublicHostGame\obj\Debug\PublicHostGame.pdb
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\PublicHostGame\PublicHostGame\bin\Debug\PublicHostGame.dll
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\PublicHostGame\PublicHostGame\bin\Debug\PublicHostGame.pdb
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\PublicHostGame\PublicHostGame\bin\Debug\ScriptHookDotNet.xml
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\PublicHostGame\PublicHostGame\obj\Debug\PublicHostGame.csprojResolveAssemblyReference.cache
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\PublicHostGame\PublicHostGame\obj\Debug\PublicHostGame.dll
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\PublicHostGame\PublicHostGame\obj\Debug\PublicHostGame.pdb
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\PublicHostGame\PublicHostGame\bin\Debug\PublicHostGame.dll
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\PublicHostGame\PublicHostGame\bin\Debug\PublicHostGame.pdb
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\PublicHostGame\PublicHostGame\bin\Debug\ScriptHookDotNet.xml
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\PublicHostGame\PublicHostGame\obj\Debug\PublicHostGame.csprojResolveAssemblyReference.cache
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\PublicHostGame\PublicHostGame\obj\Debug\PublicHostGame.dll
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\PublicHostGame\PublicHostGame\obj\Debug\PublicHostGame.pdb
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\PublicHostGame\PublicHostGame\obj\Debug\PublicHostGame.Properties.Resources.resources
+C:\Users\Daimyo\Desktop\Determine Latest GTA IV Mods\projects - determined latest\PublicHostGame\PublicHostGame\obj\Debug\PublicHostGame.csproj.GenerateResource.Cache
